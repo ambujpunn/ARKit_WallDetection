@@ -1,6 +1,6 @@
 //
 //  Grid.swift
-//  NextReality_Tutorial4
+//  NextReality_Tutorial7
 //
 //  Created by Ambuj Punn on 5/2/18.
 //  Copyright © 2018 Ambuj Punn. All rights reserved.
